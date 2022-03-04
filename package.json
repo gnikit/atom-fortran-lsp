@@ -1,0 +1,19 @@
+{
+    "name": "fortran-lsp",
+    "main": "./lib/main",
+    "version": "0.0.0",
+    "description": "Fortran support for the Language Server Protocol through `fortls`",
+    "repository": "https://github.com/gnikit/atom-fortran-lsp",
+    "bugs": "https://github.com/gnikit/atom-fortran-lsp/issues",
+    "license": "MIT",
+    "engines": {
+        "atom": ">0.50.0"
+    },
+    "keywords": [
+        "fortran",
+        "language-server-protocol",
+        "lsp",
+        "fortls",
+        "ide"
+    ]
+}
